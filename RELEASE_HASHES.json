@@ -1,0 +1,12 @@
+{
+  "release": "UMVC3 TYPE J v0.28 public beta",
+  "nexus_mod_id": 505,
+  "nexus_file_id": 1916,
+  "submitted_zip_sha256": "B38435622C23249D2D378FD36146288B1CCD9BC43918206156E77E30CA3A00EE",
+  "ZeroConfirmASI.cpp_sha256": "D0381DF516EDDA7776F774C5BFAE92296C85218931644D8FC9297D4DE9A4FF71",
+  "submitted_ZeroConfirm.asi_sha256": "CA40D3D548B495B8ADD3D1DC78F940D574E4FCEB2EEF2206A0EFD5C27C649A57",
+  "submitted_dinput8.dll_sha256": "22FDA9C71EAAE02460F311BF3441638340AB591586D78F1DE213C4819DCB883C",
+  "source_extracted_verbatim": true,
+  "binaries_in_source_publication": false,
+  "game_archives_in_source_publication": false
+}
